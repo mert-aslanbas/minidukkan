@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m8Gxt5dWGrBfQUe8Ch0ju6135Hqp5FGGbZnXqxrdiQixJIGa4+gkg7Zrg9CKWZdNR08yiqkABrgvIuC4iq/MqA==",
+  "dgSpecHash": "u4yp+lnM4DFfZaFyD6qPBjP9Ll/zc/+eb9Qq5QT069PrKwiwTxDXF2RSzyIEpY7dqtHcgosuI36x7jLa8uosUg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\AydınMutlu\\Desktop\\Mert\\MiniDukkan\\MiniDukkan\\MiniDukkan.csproj",
+  "projectFilePath": "C:\\Users\\AydınMutlu\\Documents\\Mert\\GitHub\\minidukkan\\MiniDukkan\\MiniDukkan.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AydınMutlu\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\AydınMutlu\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

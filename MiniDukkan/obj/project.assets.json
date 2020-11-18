@@ -5727,11 +5727,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AydınMutlu\\Desktop\\Mert\\MiniDukkan\\MiniDukkan\\MiniDukkan.csproj",
+      "projectUniqueName": "C:\\Users\\AydınMutlu\\Documents\\Mert\\GitHub\\minidukkan\\MiniDukkan\\MiniDukkan.csproj",
       "projectName": "MiniDukkan",
-      "projectPath": "C:\\Users\\AydınMutlu\\Desktop\\Mert\\MiniDukkan\\MiniDukkan\\MiniDukkan.csproj",
+      "projectPath": "C:\\Users\\AydınMutlu\\Documents\\Mert\\GitHub\\minidukkan\\MiniDukkan\\MiniDukkan.csproj",
       "packagesPath": "C:\\Users\\AydınMutlu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AydınMutlu\\Desktop\\Mert\\MiniDukkan\\MiniDukkan\\obj\\",
+      "outputPath": "C:\\Users\\AydınMutlu\\Documents\\Mert\\GitHub\\minidukkan\\MiniDukkan\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\AydınMutlu\\AppData\\Roaming\\NuGet\\NuGet.Config",
